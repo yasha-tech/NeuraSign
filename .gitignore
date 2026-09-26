@@ -1,0 +1,51 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Environment and secret files
+.env
+*.env
+
+# Raw datasets
+data/raw/
+datasets/
+*.zip
+*.rar
+*.7z
+
+# Large video and motion files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.pkl
+
+# Generated features and models
+features/
+processed_data/
+models/
+*.joblib
+*.pickle
+*.h5
+*.keras
+*.pt
+*.pth
+
+# Temporary files and logs
+logs/
+*.log
+temp/
+tmp/
+
+# Operating system files
+.DS_Store
+Thumbs.db
