@@ -1,0 +1,19 @@
+{
+    "model_name": "ASLG-PC12 ID3 Complexity Classifier",
+    "criterion": "entropy",
+    "short_limit": 10,
+    "medium_limit": 21,
+    "features": [
+        "english_word_count",
+        "english_character_count",
+        "punctuation_count",
+        "has_question_mark"
+    ],
+    "classes": [
+        "Long",
+        "Medium",
+        "Short"
+    ],
+    "weighted_test_accuracy": 0.9596856748487399,
+    "valid_records_represented": 24000340
+}
