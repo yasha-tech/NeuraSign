@@ -1,0 +1,22 @@
+{
+    "dataset": "Kaggle ASL English-Gloss Parallel Dataset",
+    "algorithm": "ID3 Decision Tree",
+    "criterion": "entropy",
+    "best_max_depth": 10,
+    "best_min_samples_leaf": 5,
+    "test_accuracy": 0.9024299987664981,
+    "test_macro_precision": 0.9213486818657777,
+    "test_macro_recall": 0.8618533666822406,
+    "test_macro_f1": 0.8878582063169471,
+    "training_records": 51879,
+    "validation_records": 12972,
+    "test_records": 16214,
+    "features": [
+        "english_word_count",
+        "english_character_count",
+        "average_word_length",
+        "punctuation_count",
+        "question_mark_count",
+        "digit_count"
+    ]
+}
