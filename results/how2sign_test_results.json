@@ -1,0 +1,34 @@
+{
+    "dataset": "How2Sign Realigned Sentence Metadata",
+    "algorithm": "ID3 Decision Tree",
+    "criterion": "entropy",
+    "prediction_task": "Signing duration classification",
+    "target_classes": [
+        "Short",
+        "Medium",
+        "Long"
+    ],
+    "short_boundary_seconds": 3.6700000000000017,
+    "long_boundary_seconds": 7.25,
+    "total_samples": 34438,
+    "training_samples": 30932,
+    "validation_samples": 1529,
+    "test_samples": 1977,
+    "best_max_depth": 10,
+    "best_min_samples_leaf": 25,
+    "test_accuracy": 0.7303995953464846,
+    "test_macro_precision": 0.7257350159369542,
+    "test_macro_recall": 0.7270294255474187,
+    "test_macro_f1": 0.7261396295240908,
+    "tree_depth": 10,
+    "tree_nodes": 673,
+    "features": [
+        "word_count",
+        "character_count",
+        "average_word_length",
+        "unique_word_ratio",
+        "punctuation_count",
+        "question_mark_count",
+        "digit_count"
+    ]
+}

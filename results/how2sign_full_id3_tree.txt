@@ -1,0 +1,1009 @@
+|--- character_count <= 75.50
+|   |--- character_count <= 46.50
+|   |   |--- character_count <= 33.50
+|   |   |   |--- character_count <= 24.50
+|   |   |   |   |--- character_count <= 3.50
+|   |   |   |   |   |--- class: Short
+|   |   |   |   |--- character_count >  3.50
+|   |   |   |   |   |--- character_count <= 13.50
+|   |   |   |   |   |   |--- average_word_length <= 5.25
+|   |   |   |   |   |   |   |--- question_mark_count <= 0.50
+|   |   |   |   |   |   |   |   |--- character_count <= 7.50
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- character_count >  7.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- question_mark_count >  0.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.75
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.75
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- average_word_length >  5.25
+|   |   |   |   |   |   |   |--- character_count <= 12.50
+|   |   |   |   |   |   |   |   |--- character_count <= 7.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 6.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  6.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- character_count >  7.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 5.61
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  5.61
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- character_count >  12.50
+|   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |--- character_count >  13.50
+|   |   |   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |   |   |--- word_count <= 5.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.55
+|   |   |   |   |   |   |   |   |   |--- character_count <= 15.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  15.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.55
+|   |   |   |   |   |   |   |   |   |--- character_count <= 17.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  17.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- word_count >  5.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.08
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.08
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |   |   |--- class: Short
+|   |   |   |--- character_count >  24.50
+|   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |--- average_word_length <= 3.69
+|   |   |   |   |   |   |   |--- character_count <= 25.50
+|   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- character_count >  25.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.62
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.88
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.88
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.62
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- average_word_length >  3.69
+|   |   |   |   |   |   |   |--- character_count <= 27.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 5.61
+|   |   |   |   |   |   |   |   |   |--- word_count <= 4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- word_count >  4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  5.61
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- character_count >  27.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.77
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.77
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.42
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.42
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.85
+|   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- unique_word_ratio >  0.85
+|   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.38
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.27
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.27
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.38
+|   |   |   |   |   |   |   |   |   |--- character_count <= 25.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  25.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.27
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.77
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.77
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.27
+|   |   |   |   |   |   |   |   |   |--- character_count <= 31.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  31.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |--- character_count <= 29.50
+|   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |--- character_count >  29.50
+|   |   |   |   |   |   |--- class: Short
+|   |   |--- character_count >  33.50
+|   |   |   |--- character_count <= 38.50
+|   |   |   |   |--- unique_word_ratio <= 0.87
+|   |   |   |   |   |--- average_word_length <= 4.36
+|   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |--- average_word_length >  4.36
+|   |   |   |   |   |   |--- class: Short
+|   |   |   |   |--- unique_word_ratio >  0.87
+|   |   |   |   |   |--- average_word_length <= 3.17
+|   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |--- average_word_length >  3.17
+|   |   |   |   |   |   |--- average_word_length <= 5.25
+|   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 5.08
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  5.08
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |--- character_count <= 35.50
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- character_count >  35.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 36.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  36.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- average_word_length >  5.25
+|   |   |   |   |   |   |   |--- word_count <= 5.50
+|   |   |   |   |   |   |   |   |--- character_count <= 34.50
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- character_count >  34.50
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- word_count >  5.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 5.42
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  5.42
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |--- character_count >  38.50
+|   |   |   |   |--- digit_count <= 1.50
+|   |   |   |   |   |--- unique_word_ratio <= 0.79
+|   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |--- unique_word_ratio >  0.79
+|   |   |   |   |   |   |--- character_count <= 40.50
+|   |   |   |   |   |   |   |--- average_word_length <= 3.50
+|   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- average_word_length >  3.50
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 39.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  39.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |--- word_count <= 7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- word_count >  7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- character_count >  40.50
+|   |   |   |   |   |   |   |--- average_word_length <= 3.68
+|   |   |   |   |   |   |   |   |--- character_count <= 43.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 41.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  41.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- character_count >  43.50
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.90
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.90
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- average_word_length >  3.68
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |--- word_count <= 9.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- word_count >  9.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.31
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.31
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |--- digit_count >  1.50
+|   |   |   |   |   |--- class: Short
+|   |--- character_count >  46.50
+|   |   |--- character_count <= 62.50
+|   |   |   |--- character_count <= 54.50
+|   |   |   |   |--- average_word_length <= 3.20
+|   |   |   |   |   |--- class: Medium
+|   |   |   |   |--- average_word_length >  3.20
+|   |   |   |   |   |--- character_count <= 48.50
+|   |   |   |   |   |   |--- average_word_length <= 4.72
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.95
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.90
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.90
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.95
+|   |   |   |   |   |   |   |   |--- word_count <= 9.50
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- word_count >  9.50
+|   |   |   |   |   |   |   |   |   |--- word_count <= 10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- word_count >  10.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- average_word_length >  4.72
+|   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |--- character_count <= 47.50
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- character_count >  47.50
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |--- character_count >  48.50
+|   |   |   |   |   |   |--- average_word_length <= 4.15
+|   |   |   |   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.05
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.86
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.86
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.05
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.95
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.95
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- average_word_length >  4.15
+|   |   |   |   |   |   |   |--- average_word_length <= 5.31
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 52.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  52.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 51.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  51.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |--- average_word_length >  5.31
+|   |   |   |   |   |   |   |   |--- average_word_length <= 5.44
+|   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  5.44
+|   |   |   |   |   |   |   |   |   |--- word_count <= 7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- word_count >  7.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |--- character_count >  54.50
+|   |   |   |   |--- character_count <= 57.50
+|   |   |   |   |   |--- unique_word_ratio <= 0.81
+|   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- unique_word_ratio >  0.81
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.87
+|   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- unique_word_ratio >  0.87
+|   |   |   |   |   |   |   |--- character_count <= 56.50
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.91
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.91
+|   |   |   |   |   |   |   |   |   |--- word_count <= 9.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- word_count >  9.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- character_count >  56.50
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.54
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.54
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.05
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.05
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |--- character_count >  57.50
+|   |   |   |   |   |--- average_word_length <= 4.50
+|   |   |   |   |   |   |--- average_word_length <= 4.41
+|   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.52
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.25
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.25
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.52
+|   |   |   |   |   |   |   |   |   |--- character_count <= 61.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  61.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.93
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.65
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.65
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.93
+|   |   |   |   |   |   |   |   |   |--- character_count <= 59.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- character_count >  59.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- average_word_length >  4.41
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.95
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.95
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- average_word_length >  4.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.88
+|   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- unique_word_ratio >  0.88
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.95
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.90
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.90
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.95
+|   |   |   |   |   |   |   |   |--- average_word_length <= 5.43
+|   |   |   |   |   |   |   |   |   |--- character_count <= 59.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  59.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- average_word_length >  5.43
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |--- character_count >  62.50
+|   |   |   |--- character_count <= 66.50
+|   |   |   |   |--- unique_word_ratio <= 0.94
+|   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.85
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.79
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.79
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- unique_word_ratio >  0.85
+|   |   |   |   |   |   |   |--- character_count <= 64.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.96
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.93
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.93
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.96
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- character_count >  64.50
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.93
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.93
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.83
+|   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |--- unique_word_ratio >  0.83
+|   |   |   |   |   |   |   |--- average_word_length <= 3.85
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- average_word_length >  3.85
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.90
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.90
+|   |   |   |   |   |   |   |   |   |--- character_count <= 64.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  64.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |--- unique_word_ratio >  0.94
+|   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |--- average_word_length <= 3.96
+|   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- average_word_length >  3.96
+|   |   |   |   |   |   |   |--- character_count <= 65.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.46
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.46
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- character_count >  65.50
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |--- character_count <= 65.50
+|   |   |   |   |   |   |   |--- average_word_length <= 4.21
+|   |   |   |   |   |   |   |   |--- character_count <= 64.50
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Short
+|   |   |   |   |   |   |   |   |--- character_count >  64.50
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- average_word_length >  4.21
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.46
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.46
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- character_count >  65.50
+|   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |--- character_count >  66.50
+|   |   |   |   |--- digit_count <= 0.50
+|   |   |   |   |   |--- unique_word_ratio <= 0.77
+|   |   |   |   |   |   |--- word_count <= 15.50
+|   |   |   |   |   |   |   |--- average_word_length <= 4.30
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- average_word_length >  4.30
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- word_count >  15.50
+|   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- unique_word_ratio >  0.77
+|   |   |   |   |   |   |--- character_count <= 73.50
+|   |   |   |   |   |   |   |--- average_word_length <= 5.32
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.42
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  4.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.42
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.68
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.68
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- average_word_length >  5.32
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- character_count >  73.50
+|   |   |   |   |   |   |   |--- character_count <= 74.50
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.94
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.94
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.18
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.18
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- character_count >  74.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.64
+|   |   |   |   |   |   |   |   |   |--- word_count <= 14.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- word_count >  14.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.64
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |--- digit_count >  0.50
+|   |   |   |   |   |--- unique_word_ratio <= 0.94
+|   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- unique_word_ratio >  0.94
+|   |   |   |   |   |   |--- class: Medium
+|--- character_count >  75.50
+|   |--- character_count <= 121.50
+|   |   |--- character_count <= 95.50
+|   |   |   |--- character_count <= 85.50
+|   |   |   |   |--- character_count <= 80.50
+|   |   |   |   |   |--- digit_count <= 0.50
+|   |   |   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |   |   |--- average_word_length <= 4.30
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 77.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  77.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.62
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.62
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- average_word_length >  4.30
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.61
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.54
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.54
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.61
+|   |   |   |   |   |   |   |   |   |--- character_count <= 79.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  79.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.97
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.17
+|   |   |   |   |   |   |   |   |   |--- character_count <= 78.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  78.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.17
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.54
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.54
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.97
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.75
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.17
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.17
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.75
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- digit_count >  0.50
+|   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |--- character_count >  80.50
+|   |   |   |   |   |--- unique_word_ratio <= 0.84
+|   |   |   |   |   |   |--- word_count <= 15.50
+|   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- word_count >  15.50
+|   |   |   |   |   |   |   |--- average_word_length <= 3.58
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- average_word_length >  3.58
+|   |   |   |   |   |   |   |   |--- character_count <= 82.50
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- character_count >  82.50
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- unique_word_ratio >  0.84
+|   |   |   |   |   |   |--- average_word_length <= 5.50
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.94
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.58
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.58
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.69
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.69
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.94
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.57
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.97
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.97
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.57
+|   |   |   |   |   |   |   |   |   |--- character_count <= 82.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  82.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- average_word_length >  5.50
+|   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |--- character_count >  85.50
+|   |   |   |   |--- digit_count <= 0.50
+|   |   |   |   |   |--- average_word_length <= 5.41
+|   |   |   |   |   |   |--- average_word_length <= 5.17
+|   |   |   |   |   |   |   |--- character_count <= 88.50
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.94
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.94
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.86
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.86
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- character_count >  88.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.14
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.14
+|   |   |   |   |   |   |   |   |   |--- character_count <= 89.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- character_count >  89.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- average_word_length >  5.17
+|   |   |   |   |   |   |   |--- average_word_length <= 5.28
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  5.28
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- average_word_length >  5.41
+|   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |--- digit_count >  0.50
+|   |   |   |   |   |--- unique_word_ratio <= 0.93
+|   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- unique_word_ratio >  0.93
+|   |   |   |   |   |   |--- class: Medium
+|   |   |--- character_count >  95.50
+|   |   |   |--- character_count <= 107.50
+|   |   |   |   |--- character_count <= 101.50
+|   |   |   |   |   |--- average_word_length <= 3.37
+|   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- average_word_length >  3.37
+|   |   |   |   |   |   |--- average_word_length <= 3.60
+|   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |--- character_count <= 99.50
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- character_count >  99.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  3.60
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.74
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.74
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.69
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.88
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.88
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.69
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.80
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.80
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |--- character_count >  101.50
+|   |   |   |   |   |--- unique_word_ratio <= 0.86
+|   |   |   |   |   |   |--- punctuation_count <= 4.50
+|   |   |   |   |   |   |   |--- average_word_length <= 3.47
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- average_word_length >  3.47
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.63
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.63
+|   |   |   |   |   |   |   |   |   |--- character_count <= 106.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  106.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- punctuation_count >  4.50
+|   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |--- unique_word_ratio >  0.86
+|   |   |   |   |   |   |--- average_word_length <= 4.55
+|   |   |   |   |   |   |   |--- average_word_length <= 4.45
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.59
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.59
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.71
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.71
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  4.45
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  4.55
+|   |   |   |   |   |   |   |--- average_word_length <= 5.32
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.81
+|   |   |   |   |   |   |   |   |   |--- character_count <= 105.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  105.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.81
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  5.32
+|   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |--- character_count >  107.50
+|   |   |   |   |--- character_count <= 113.50
+|   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |--- word_count <= 24.50
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.87
+|   |   |   |   |   |   |   |   |--- word_count <= 22.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 110.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  110.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- word_count >  22.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 111.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  111.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.87
+|   |   |   |   |   |   |   |   |--- character_count <= 109.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 108.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  108.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- character_count >  109.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 110.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  110.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |--- word_count >  24.50
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.73
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- unique_word_ratio >  0.73
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.80
+|   |   |   |   |   |   |   |   |--- character_count <= 110.50
+|   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |   |--- character_count >  110.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.80
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.47
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.47
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.94
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.94
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |--- character_count >  113.50
+|   |   |   |   |   |--- punctuation_count <= 5.50
+|   |   |   |   |   |   |--- average_word_length <= 5.13
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.96
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 4.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 117.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  117.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- punctuation_count >  4.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.29
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.29
+|   |   |   |   |   |   |   |   |   |   |--- class: Medium
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.96
+|   |   |   |   |   |   |   |   |--- character_count <= 118.50
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.96
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.96
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- character_count >  118.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  5.13
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- punctuation_count >  5.50
+|   |   |   |   |   |   |--- average_word_length <= 4.24
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  4.24
+|   |   |   |   |   |   |   |--- class: Long
+|   |--- character_count >  121.50
+|   |   |--- character_count <= 160.50
+|   |   |   |--- character_count <= 139.50
+|   |   |   |   |--- character_count <= 131.50
+|   |   |   |   |   |--- character_count <= 123.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.77
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- unique_word_ratio >  0.77
+|   |   |   |   |   |   |   |--- average_word_length <= 3.94
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.84
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.84
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  3.94
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.75
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.91
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.91
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.75
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- character_count >  123.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.98
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.87
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.84
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.51
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.51
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.84
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.85
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.85
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.87
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.22
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.10
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.10
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.22
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.35
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.35
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- unique_word_ratio >  0.98
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |--- character_count >  131.50
+|   |   |   |   |   |--- average_word_length <= 5.20
+|   |   |   |   |   |   |--- average_word_length <= 4.85
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.70
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.70
+|   |   |   |   |   |   |   |   |--- character_count <= 134.50
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.92
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.92
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- character_count >  134.50
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  4.85
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- average_word_length >  5.20
+|   |   |   |   |   |   |--- class: Long
+|   |   |   |--- character_count >  139.50
+|   |   |   |   |--- word_count <= 30.50
+|   |   |   |   |   |--- unique_word_ratio <= 0.93
+|   |   |   |   |   |   |--- average_word_length <= 4.83
+|   |   |   |   |   |   |   |--- average_word_length <= 3.75
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  3.75
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 5.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.73
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.73
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- punctuation_count >  5.50
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.88
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.88
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  4.83
+|   |   |   |   |   |   |   |--- average_word_length <= 5.12
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.88
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.88
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  5.12
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- unique_word_ratio >  0.93
+|   |   |   |   |   |   |--- character_count <= 143.50
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- character_count >  143.50
+|   |   |   |   |   |   |   |--- average_word_length <= 4.31
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  4.31
+|   |   |   |   |   |   |   |   |--- character_count <= 149.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- character_count >  149.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.57
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.57
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |--- word_count >  30.50
+|   |   |   |   |   |--- digit_count <= 0.50
+|   |   |   |   |   |   |--- punctuation_count <= 4.50
+|   |   |   |   |   |   |   |--- average_word_length <= 3.46
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  3.46
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.55
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.55
+|   |   |   |   |   |   |   |   |   |--- character_count <= 147.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  147.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- punctuation_count >  4.50
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.82
+|   |   |   |   |   |   |   |   |--- character_count <= 155.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- character_count >  155.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.82
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.88
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.88
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- digit_count >  0.50
+|   |   |   |   |   |   |--- class: Long
+|   |   |--- character_count >  160.50
+|   |   |   |--- character_count <= 198.50
+|   |   |   |   |--- character_count <= 179.50
+|   |   |   |   |   |--- average_word_length <= 4.49
+|   |   |   |   |   |   |--- average_word_length <= 4.20
+|   |   |   |   |   |   |   |--- character_count <= 167.50
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.08
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 3.94
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  3.94
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.08
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- character_count >  167.50
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |   |   |   |   |--- character_count <= 172.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  172.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  4.20
+|   |   |   |   |   |   |   |--- average_word_length <= 4.22
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  4.22
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.28
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.28
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- average_word_length >  4.49
+|   |   |   |   |   |   |--- average_word_length <= 4.95
+|   |   |   |   |   |   |   |--- average_word_length <= 4.59
+|   |   |   |   |   |   |   |   |--- average_word_length <= 4.56
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  4.56
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  4.59
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  4.95
+|   |   |   |   |   |   |   |--- average_word_length <= 5.11
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  5.11
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |--- character_count >  179.50
+|   |   |   |   |   |--- punctuation_count <= 3.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.77
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.75
+|   |   |   |   |   |   |   |   |--- punctuation_count <= 1.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- punctuation_count >  1.50
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.75
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- unique_word_ratio >  0.77
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- punctuation_count >  3.50
+|   |   |   |   |   |   |--- word_count <= 33.50
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- word_count >  33.50
+|   |   |   |   |   |   |   |--- unique_word_ratio <= 0.83
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.76
+|   |   |   |   |   |   |   |   |   |--- character_count <= 186.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- character_count >  186.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.76
+|   |   |   |   |   |   |   |   |   |--- punctuation_count <= 5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- punctuation_count >  5.50
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- unique_word_ratio >  0.83
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.95
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.95
+|   |   |   |   |   |   |   |   |   |--- average_word_length <= 4.14
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |   |--- average_word_length >  4.14
+|   |   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |--- character_count >  198.50
+|   |   |   |   |--- unique_word_ratio <= 0.65
+|   |   |   |   |   |--- punctuation_count <= 2.50
+|   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- punctuation_count >  2.50
+|   |   |   |   |   |   |--- unique_word_ratio <= 0.63
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- unique_word_ratio >  0.63
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |--- unique_word_ratio >  0.65
+|   |   |   |   |   |--- character_count <= 212.50
+|   |   |   |   |   |   |--- average_word_length <= 3.98
+|   |   |   |   |   |   |   |--- average_word_length <= 3.84
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  3.84
+|   |   |   |   |   |   |   |   |--- unique_word_ratio <= 0.78
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- unique_word_ratio >  0.78
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- average_word_length >  3.98
+|   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |--- character_count >  212.50
+|   |   |   |   |   |   |--- digit_count <= 2.50
+|   |   |   |   |   |   |   |--- average_word_length <= 3.87
+|   |   |   |   |   |   |   |   |--- average_word_length <= 3.85
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |   |--- average_word_length >  3.85
+|   |   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |   |--- average_word_length >  3.87
+|   |   |   |   |   |   |   |   |--- class: Long
+|   |   |   |   |   |   |--- digit_count >  2.50
+|   |   |   |   |   |   |   |--- class: Long
