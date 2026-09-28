@@ -1,0 +1,13 @@
+feature,importance
+mean_smplx_value,0.20549349836318878
+mean_keypoint_confidence,0.1393709148279932
+std_smplx_value,0.13452098689607356
+mean_smplx_motion,0.10225481370409902
+maximum_smplx_motion,0.09297895255712883
+frame_count,0.08537620006647774
+minimum_keypoint_confidence,0.05250109180625816
+std_2d_motion,0.047665591442279165
+mean_2d_motion,0.04580020844153549
+maximum_2d_motion,0.044233867355578646
+left_hand_valid_ratio,0.029732133559190355
+right_hand_valid_ratio,0.020071740980197022

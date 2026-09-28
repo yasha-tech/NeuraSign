@@ -1,0 +1,1615 @@
+|--- mean_smplx_value <= 0.10
+|   |--- mean_keypoint_confidence <= 0.82
+|   |   |--- maximum_smplx_motion <= 1.62
+|   |   |   |--- mean_keypoint_confidence <= 0.79
+|   |   |   |   |--- std_2d_motion <= 20.63
+|   |   |   |   |   |--- maximum_2d_motion <= 165.51
+|   |   |   |   |   |   |--- std_smplx_value <= 1.39
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.78
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 3.01
+|   |   |   |   |   |   |   |   |   |--- class: after
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  3.01
+|   |   |   |   |   |   |   |   |   |--- class: alligator
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.78
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 4.35
+|   |   |   |   |   |   |   |   |   |--- class: autumn
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  4.35
+|   |   |   |   |   |   |   |   |   |--- class: authority
+|   |   |   |   |   |   |--- std_smplx_value >  1.39
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.44
+|   |   |   |   |   |   |   |   |--- frame_count <= 101.00
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.08
+|   |   |   |   |   |   |   |   |   |   |--- class: and
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.08
+|   |   |   |   |   |   |   |   |   |   |--- class: adult
+|   |   |   |   |   |   |   |   |--- frame_count >  101.00
+|   |   |   |   |   |   |   |   |   |--- class: admit
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.44
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.21
+|   |   |   |   |   |   |   |   |   |--- class: able
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.21
+|   |   |   |   |   |   |   |   |   |--- class: austria
+|   |   |   |   |   |--- maximum_2d_motion >  165.51
+|   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.77
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 0.88
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 13.77
+|   |   |   |   |   |   |   |   |   |--- class: appetite
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  13.77
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.31
+|   |   |   |   |   |   |   |   |   |   |--- class: alcohol
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.31
+|   |   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.32
+|   |   |   |   |   |   |   |   |   |   |   |--- class: always
+|   |   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.32
+|   |   |   |   |   |   |   |   |   |   |   |--- class: almost
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  0.88
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 3.99
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.34
+|   |   |   |   |   |   |   |   |   |   |--- frame_count <= 113.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: africa
+|   |   |   |   |   |   |   |   |   |   |--- frame_count >  113.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: africa
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.34
+|   |   |   |   |   |   |   |   |   |   |--- class: already
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  3.99
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |   |--- frame_count <= 75.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: answer
+|   |   |   |   |   |   |   |   |   |   |--- frame_count >  75.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: area
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: analyze
+|   |   |   |   |   |   |--- mean_keypoint_confidence >  0.77
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.46
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.70
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.60
+|   |   |   |   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.77
+|   |   |   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.77
+|   |   |   |   |   |   |   |   |   |   |   |--- class: adverb
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.60
+|   |   |   |   |   |   |   |   |   |   |--- class: alone
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.70
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.77
+|   |   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.77
+|   |   |   |   |   |   |   |   |   |   |--- class: adverb
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.46
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 285.20
+|   |   |   |   |   |   |   |   |   |--- class: alligator
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  285.20
+|   |   |   |   |   |   |   |   |   |--- class: already
+|   |   |   |   |--- std_2d_motion >  20.63
+|   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.76
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.96
+|   |   |   |   |   |   |   |   |--- frame_count <= 65.50
+|   |   |   |   |   |   |   |   |   |--- class: and
+|   |   |   |   |   |   |   |   |--- frame_count >  65.50
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: arm
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: ago
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.96
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 0.74
+|   |   |   |   |   |   |   |   |   |--- class: appear
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  0.74
+|   |   |   |   |   |   |   |   |   |--- class: alphabet
+|   |   |   |   |   |   |--- mean_keypoint_confidence >  0.76
+|   |   |   |   |   |   |   |--- maximum_2d_motion <= 205.42
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.78
+|   |   |   |   |   |   |   |   |   |   |--- class: also
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.78
+|   |   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |   |--- class: appointment
+|   |   |   |   |   |   |   |--- maximum_2d_motion >  205.42
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- class: appetite
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- class: asia
+|   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |--- frame_count <= 73.50
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.38
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.77
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.00
+|   |   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.00
+|   |   |   |   |   |   |   |   |   |   |--- class: another
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.77
+|   |   |   |   |   |   |   |   |   |--- class: ask
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.38
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- class: asl
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- class: assist
+|   |   |   |   |   |   |--- frame_count >  73.50
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.12
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.62
+|   |   |   |   |   |   |   |   |   |--- class: admit
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.62
+|   |   |   |   |   |   |   |   |   |--- class: auction
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.12
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.75
+|   |   |   |   |   |   |   |   |   |--- class: army
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.75
+|   |   |   |   |   |   |   |   |   |--- class: audiologist
+|   |   |   |--- mean_keypoint_confidence >  0.79
+|   |   |   |   |--- frame_count <= 64.00
+|   |   |   |   |   |--- frame_count <= 43.00
+|   |   |   |   |   |   |--- std_smplx_value <= 1.33
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.42
+|   |   |   |   |   |   |   |   |   |--- class: assume
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.42
+|   |   |   |   |   |   |   |   |   |--- class: answer
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |--- frame_count <= 33.50
+|   |   |   |   |   |   |   |   |   |--- class: also
+|   |   |   |   |   |   |   |   |--- frame_count >  33.50
+|   |   |   |   |   |   |   |   |   |--- class: austria
+|   |   |   |   |   |   |--- std_smplx_value >  1.33
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.44
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |--- class: apartment
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.44
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.09
+|   |   |   |   |   |   |   |   |   |--- class: ago
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.09
+|   |   |   |   |   |   |   |   |   |--- class: amputate
+|   |   |   |   |   |--- frame_count >  43.00
+|   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.81
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.06
+|   |   |   |   |   |   |   |   |   |--- class: area
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.06
+|   |   |   |   |   |   |   |   |   |--- class: and
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.81
+|   |   |   |   |   |   |   |   |--- frame_count <= 55.00
+|   |   |   |   |   |   |   |   |   |--- class: arm
+|   |   |   |   |   |   |   |   |--- frame_count >  55.00
+|   |   |   |   |   |   |   |   |   |--- class: about
+|   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.25
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |   |--- class: alcohol
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |   |--- class: apart
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.25
+|   |   |   |   |   |   |   |   |--- class: advantage
+|   |   |   |   |--- frame_count >  64.00
+|   |   |   |   |   |--- maximum_2d_motion <= 192.54
+|   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.80
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.50
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 14.15
+|   |   |   |   |   |   |   |   |   |--- class: a lot
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  14.15
+|   |   |   |   |   |   |   |   |   |--- class: afraid
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.50
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.80
+|   |   |   |   |   |   |   |   |   |--- class: adjust
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.80
+|   |   |   |   |   |   |   |   |   |--- class: allow
+|   |   |   |   |   |   |--- mean_keypoint_confidence >  0.80
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 3.40
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.97
+|   |   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.41
+|   |   |   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.41
+|   |   |   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.97
+|   |   |   |   |   |   |   |   |   |   |--- class: always
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  3.40
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 4.32
+|   |   |   |   |   |   |   |   |   |   |--- class: arrive
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  4.32
+|   |   |   |   |   |   |   |   |   |   |--- class: afternoon
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 2.87
+|   |   |   |   |   |   |   |   |   |--- class: appointment
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  2.87
+|   |   |   |   |   |   |   |   |   |--- class: answer
+|   |   |   |   |   |--- maximum_2d_motion >  192.54
+|   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |--- mean_2d_motion <= 5.16
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.66
+|   |   |   |   |   |   |   |   |   |--- class: affect
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.66
+|   |   |   |   |   |   |   |   |   |--- class: arm
+|   |   |   |   |   |   |   |--- mean_2d_motion >  5.16
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 212.01
+|   |   |   |   |   |   |   |   |   |--- class: adapt
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  212.01
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |   |   |--- class: appointment
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |   |   |--- class: after
+|   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.41
+|   |   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.71
+|   |   |   |   |   |   |   |   |   |--- class: a lot
+|   |   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.71
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.36
+|   |   |   |   |   |   |   |   |   |   |--- class: artist
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.36
+|   |   |   |   |   |   |   |   |   |   |--- class: almost
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.41
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |   |--- class: accountant
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 93.50
+|   |   |   |   |   |   |   |   |   |   |--- class: allergy
+|   |   |   |   |   |   |   |   |   |--- frame_count >  93.50
+|   |   |   |   |   |   |   |   |   |   |--- class: add
+|   |   |--- maximum_smplx_motion >  1.62
+|   |   |   |--- frame_count <= 63.50
+|   |   |   |   |--- mean_2d_motion <= 7.22
+|   |   |   |   |   |--- maximum_smplx_motion <= 2.29
+|   |   |   |   |   |   |--- frame_count <= 61.50
+|   |   |   |   |   |   |   |--- maximum_2d_motion <= 180.91
+|   |   |   |   |   |   |   |   |--- class: asia
+|   |   |   |   |   |   |   |--- maximum_2d_motion >  180.91
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 18.07
+|   |   |   |   |   |   |   |   |   |--- class: africa
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  18.07
+|   |   |   |   |   |   |   |   |   |--- class: admit
+|   |   |   |   |   |   |--- frame_count >  61.50
+|   |   |   |   |   |   |   |--- maximum_2d_motion <= 196.46
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.97
+|   |   |   |   |   |   |   |   |   |--- class: annoy
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.97
+|   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |--- maximum_2d_motion >  196.46
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |--- class: ahead
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |--- class: autumn
+|   |   |   |   |   |--- maximum_smplx_motion >  2.29
+|   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.81
+|   |   |   |   |   |   |   |--- frame_count <= 54.00
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |--- class: adult
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |--- class: africa
+|   |   |   |   |   |   |   |--- frame_count >  54.00
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 6.16
+|   |   |   |   |   |   |   |   |   |--- class: attorney
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  6.16
+|   |   |   |   |   |   |   |   |   |--- class: alone
+|   |   |   |   |   |   |--- mean_keypoint_confidence >  0.81
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.81
+|   |   |   |   |   |   |   |   |--- class: attend
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.81
+|   |   |   |   |   |   |   |   |--- frame_count <= 48.00
+|   |   |   |   |   |   |   |   |   |--- class: all day
+|   |   |   |   |   |   |   |   |--- frame_count >  48.00
+|   |   |   |   |   |   |   |   |   |--- class: any
+|   |   |   |   |--- mean_2d_motion >  7.22
+|   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.64
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |--- class: amazing
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |--- class: ago
+|   |   |   |   |   |   |--- left_hand_valid_ratio >  0.64
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.08
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.42
+|   |   |   |   |   |   |   |   |   |--- class: arrest
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.42
+|   |   |   |   |   |   |   |   |   |--- class: afternoon
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.08
+|   |   |   |   |   |   |   |   |--- class: adjective
+|   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |--- std_smplx_value <= 1.48
+|   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.71
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.39
+|   |   |   |   |   |   |   |   |   |--- class: airplane
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.39
+|   |   |   |   |   |   |   |   |   |--- class: afraid
+|   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.71
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.86
+|   |   |   |   |   |   |   |   |   |--- class: appear
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.86
+|   |   |   |   |   |   |   |   |   |--- class: area
+|   |   |   |   |   |   |--- std_smplx_value >  1.48
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.80
+|   |   |   |   |   |   |   |   |--- class: apostrophe
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.80
+|   |   |   |   |   |   |   |   |--- class: anatomy
+|   |   |   |--- frame_count >  63.50
+|   |   |   |   |--- mean_smplx_value <= 0.08
+|   |   |   |   |   |--- mean_keypoint_confidence <= 0.80
+|   |   |   |   |   |   |--- std_smplx_value <= 1.40
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.08
+|   |   |   |   |   |   |   |   |   |--- class: authority
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.08
+|   |   |   |   |   |   |   |   |   |--- class: allow
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |--- class: approach
+|   |   |   |   |   |   |--- std_smplx_value >  1.40
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |   |--- class: angry
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |--- class: algebra
+|   |   |   |   |   |--- mean_keypoint_confidence >  0.80
+|   |   |   |   |   |   |--- maximum_smplx_motion <= 2.67
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.81
+|   |   |   |   |   |   |   |   |--- class: against
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.81
+|   |   |   |   |   |   |   |   |--- class: apart
+|   |   |   |   |   |   |--- maximum_smplx_motion >  2.67
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |--- class: alphabet
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.92
+|   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.92
+|   |   |   |   |   |   |   |   |   |--- class: admire
+|   |   |   |   |--- mean_smplx_value >  0.08
+|   |   |   |   |   |--- right_hand_valid_ratio <= 0.94
+|   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.71
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.59
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.66
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: almost
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: adult
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.66
+|   |   |   |   |   |   |   |   |   |--- class: article
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.59
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 27.80
+|   |   |   |   |   |   |   |   |   |--- class: arrest
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  27.80
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: adverb
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: area
+|   |   |   |   |   |   |--- right_hand_valid_ratio >  0.71
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.82
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |   |--- class: army
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |   |--- class: adjective
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.82
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.52
+|   |   |   |   |   |   |   |   |   |--- class: afternoon
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.52
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- class: apart
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- class: appropriate
+|   |   |   |   |   |--- right_hand_valid_ratio >  0.94
+|   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.99
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.10
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |   |--- class: archery
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |   |--- class: attract
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.10
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.79
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion <= 25.78
+|   |   |   |   |   |   |   |   |   |   |--- class: america
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion >  25.78
+|   |   |   |   |   |   |   |   |   |   |--- class: adult
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.79
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.03
+|   |   |   |   |   |   |   |   |   |   |--- class: aim
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.03
+|   |   |   |   |   |   |   |   |   |   |--- class: about
+|   |   |   |   |   |   |--- left_hand_valid_ratio >  0.99
+|   |   |   |   |   |   |   |--- maximum_2d_motion <= 280.57
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 2.68
+|   |   |   |   |   |   |   |   |   |--- class: argue
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  2.68
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 152.38
+|   |   |   |   |   |   |   |   |   |   |--- class: argue
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  152.38
+|   |   |   |   |   |   |   |   |   |   |--- class: arrogant
+|   |   |   |   |   |   |   |--- maximum_2d_motion >  280.57
+|   |   |   |   |   |   |   |   |--- class: adopt
+|   |--- mean_keypoint_confidence >  0.82
+|   |   |--- mean_smplx_value <= 0.08
+|   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |--- maximum_smplx_motion <= 1.04
+|   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |--- std_smplx_value <= 1.43
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.31
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.26
+|   |   |   |   |   |   |   |   |   |--- class: austria
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.26
+|   |   |   |   |   |   |   |   |   |--- class: about
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.31
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.36
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.33
+|   |   |   |   |   |   |   |   |   |   |--- class: assistant
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.33
+|   |   |   |   |   |   |   |   |   |   |--- class: ago
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.36
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.06
+|   |   |   |   |   |   |   |   |   |   |--- class: arm
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.06
+|   |   |   |   |   |   |   |   |   |   |--- class: attention
+|   |   |   |   |   |   |--- std_smplx_value >  1.43
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.08
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.41
+|   |   |   |   |   |   |   |   |   |--- class: admit
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.41
+|   |   |   |   |   |   |   |   |   |--- class: animal
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.08
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 2.03
+|   |   |   |   |   |   |   |   |   |--- class: address
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  2.03
+|   |   |   |   |   |   |   |   |   |--- class: abdomen
+|   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |--- mean_2d_motion <= 1.36
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.07
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 17.78
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.38
+|   |   |   |   |   |   |   |   |   |   |--- class: a lot
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.38
+|   |   |   |   |   |   |   |   |   |   |--- class: ago
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  17.78
+|   |   |   |   |   |   |   |   |   |--- class: adjust
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.07
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.94
+|   |   |   |   |   |   |   |   |   |   |--- class: alcohol
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.94
+|   |   |   |   |   |   |   |   |   |   |--- class: almost
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- class: algebra
+|   |   |   |   |   |   |--- mean_2d_motion >  1.36
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |--- frame_count <= 43.00
+|   |   |   |   |   |   |   |   |   |--- class: admire
+|   |   |   |   |   |   |   |   |--- frame_count >  43.00
+|   |   |   |   |   |   |   |   |   |--- class: autumn
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 9.10
+|   |   |   |   |   |   |   |   |   |--- class: available
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  9.10
+|   |   |   |   |   |   |   |   |   |--- class: annoy
+|   |   |   |   |--- maximum_smplx_motion >  1.04
+|   |   |   |   |   |--- maximum_smplx_motion <= 1.50
+|   |   |   |   |   |   |--- maximum_smplx_motion <= 1.29
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.07
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 1.83
+|   |   |   |   |   |   |   |   |   |--- class: apart
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  1.83
+|   |   |   |   |   |   |   |   |   |--- class: approach
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.07
+|   |   |   |   |   |   |   |   |--- class: army
+|   |   |   |   |   |   |--- maximum_smplx_motion >  1.29
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.40
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.36
+|   |   |   |   |   |   |   |   |   |   |--- class: ahead
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.36
+|   |   |   |   |   |   |   |   |   |   |--- class: allergy
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- class: arrive
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.40
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.46
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.87
+|   |   |   |   |   |   |   |   |   |   |--- class: appointment
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.87
+|   |   |   |   |   |   |   |   |   |   |--- class: add
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.46
+|   |   |   |   |   |   |   |   |   |--- class: act
+|   |   |   |   |   |--- maximum_smplx_motion >  1.50
+|   |   |   |   |   |   |--- maximum_smplx_motion <= 2.26
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.08
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.79
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.05
+|   |   |   |   |   |   |   |   |   |   |--- class: autumn
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.05
+|   |   |   |   |   |   |   |   |   |   |--- class: animal
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.79
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 106.00
+|   |   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.64
+|   |   |   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.64
+|   |   |   |   |   |   |   |   |   |   |   |--- class: argue
+|   |   |   |   |   |   |   |   |   |--- frame_count >  106.00
+|   |   |   |   |   |   |   |   |   |   |--- class: annoy
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.08
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.45
+|   |   |   |   |   |   |   |   |   |--- class: afraid
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.45
+|   |   |   |   |   |   |   |   |   |--- class: around
+|   |   |   |   |   |   |--- maximum_smplx_motion >  2.26
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.07
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.06
+|   |   |   |   |   |   |   |   |   |--- class: archery
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.06
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 2.21
+|   |   |   |   |   |   |   |   |   |   |--- class: anniversary
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  2.21
+|   |   |   |   |   |   |   |   |   |   |--- class: appropriate
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.07
+|   |   |   |   |   |   |   |   |--- class: ahead
+|   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |--- std_2d_motion <= 18.52
+|   |   |   |   |   |--- minimum_keypoint_confidence <= 0.06
+|   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.87
+|   |   |   |   |   |   |   |--- std_2d_motion <= 16.07
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.07
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.67
+|   |   |   |   |   |   |   |   |   |   |--- class: assistant
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.67
+|   |   |   |   |   |   |   |   |   |   |--- class: area
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.07
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 116.50
+|   |   |   |   |   |   |   |   |   |   |--- frame_count <= 87.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: angel
+|   |   |   |   |   |   |   |   |   |   |--- frame_count >  87.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |   |   |   |   |--- frame_count >  116.50
+|   |   |   |   |   |   |   |   |   |   |--- class: appointment
+|   |   |   |   |   |   |   |--- std_2d_motion >  16.07
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 2.22
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.32
+|   |   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.32
+|   |   |   |   |   |   |   |   |   |   |--- class: appropriate
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  2.22
+|   |   |   |   |   |   |   |   |   |--- class: available
+|   |   |   |   |   |   |--- mean_keypoint_confidence >  0.87
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.89
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 2.68
+|   |   |   |   |   |   |   |   |   |--- class: algebra
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  2.68
+|   |   |   |   |   |   |   |   |   |--- class: address
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.89
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 3.67
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.89
+|   |   |   |   |   |   |   |   |   |   |--- class: appear
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.89
+|   |   |   |   |   |   |   |   |   |   |--- class: assistant
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  3.67
+|   |   |   |   |   |   |   |   |   |--- class: arrest
+|   |   |   |   |   |--- minimum_keypoint_confidence >  0.06
+|   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.47
+|   |   |   |   |   |   |   |   |--- frame_count <= 32.00
+|   |   |   |   |   |   |   |   |   |--- class: anyway
+|   |   |   |   |   |   |   |   |--- frame_count >  32.00
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 3.25
+|   |   |   |   |   |   |   |   |   |   |--- class: able
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  3.25
+|   |   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.47
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |   |--- class: announce
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 37.00
+|   |   |   |   |   |   |   |   |   |   |--- class: appropriate
+|   |   |   |   |   |   |   |   |   |--- frame_count >  37.00
+|   |   |   |   |   |   |   |   |   |   |--- class: animal
+|   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |--- frame_count <= 72.50
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 113.81
+|   |   |   |   |   |   |   |   |   |   |--- class: allow
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  113.81
+|   |   |   |   |   |   |   |   |   |   |--- class: across
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |   |--- class: attract
+|   |   |   |   |   |   |   |--- frame_count >  72.50
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.08
+|   |   |   |   |   |   |   |   |   |--- class: activity
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.08
+|   |   |   |   |   |   |   |   |   |--- class: action
+|   |   |   |   |--- std_2d_motion >  18.52
+|   |   |   |   |   |--- std_2d_motion <= 22.24
+|   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |--- mean_2d_motion <= 6.66
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.08
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 175.55
+|   |   |   |   |   |   |   |   |   |   |--- class: arrive
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  175.55
+|   |   |   |   |   |   |   |   |   |   |--- class: authority
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.08
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 220.27
+|   |   |   |   |   |   |   |   |   |   |--- class: arrive
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  220.27
+|   |   |   |   |   |   |   |   |   |   |--- class: about
+|   |   |   |   |   |   |   |--- mean_2d_motion >  6.66
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |   |--- class: angry
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |   |--- class: analyze
+|   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |--- maximum_2d_motion <= 188.25
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 19.92
+|   |   |   |   |   |   |   |   |   |--- class: around
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  19.92
+|   |   |   |   |   |   |   |   |   |--- class: allergy
+|   |   |   |   |   |   |   |--- maximum_2d_motion >  188.25
+|   |   |   |   |   |   |   |   |--- class: agenda
+|   |   |   |   |   |--- std_2d_motion >  22.24
+|   |   |   |   |   |   |--- std_2d_motion <= 22.99
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.37
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 2.50
+|   |   |   |   |   |   |   |   |   |--- class: adapt
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  2.50
+|   |   |   |   |   |   |   |   |   |--- class: almost
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.37
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |   |--- class: agreement
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |   |--- class: already
+|   |   |   |   |   |   |--- std_2d_motion >  22.99
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.83
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |   |--- class: about
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.83
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 209.47
+|   |   |   |   |   |   |   |   |   |   |--- class: announce
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  209.47
+|   |   |   |   |   |   |   |   |   |   |--- class: appropriate
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |--- class: area
+|   |   |--- mean_smplx_value >  0.08
+|   |   |   |--- std_smplx_value <= 1.49
+|   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |--- left_hand_valid_ratio <= 0.96
+|   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.84
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 185.45
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.83
+|   |   |   |   |   |   |   |   |   |   |--- class: archery
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.83
+|   |   |   |   |   |   |   |   |   |   |--- class: afternoon
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  185.45
+|   |   |   |   |   |   |   |   |   |--- class: actor
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 195.24
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion <= 16.81
+|   |   |   |   |   |   |   |   |   |   |--- class: against
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion >  16.81
+|   |   |   |   |   |   |   |   |   |   |--- class: allergy
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  195.24
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.76
+|   |   |   |   |   |   |   |   |   |   |--- class: article
+|   |   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.76
+|   |   |   |   |   |   |   |   |   |   |--- class: around
+|   |   |   |   |   |   |--- mean_keypoint_confidence >  0.84
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.82
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 62.00
+|   |   |   |   |   |   |   |   |   |   |--- class: anyway
+|   |   |   |   |   |   |   |   |   |--- frame_count >  62.00
+|   |   |   |   |   |   |   |   |   |   |--- class: adopt
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.82
+|   |   |   |   |   |   |   |   |   |--- class: adjust
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |--- frame_count <= 67.50
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |   |   |--- class: able
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |   |   |--- class: also
+|   |   |   |   |   |   |   |   |--- frame_count >  67.50
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 6.93
+|   |   |   |   |   |   |   |   |   |   |--- class: admire
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  6.93
+|   |   |   |   |   |   |   |   |   |   |--- class: act
+|   |   |   |   |   |--- left_hand_valid_ratio >  0.96
+|   |   |   |   |   |   |--- maximum_2d_motion <= 169.44
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.84
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 6.42
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: already
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  6.42
+|   |   |   |   |   |   |   |   |   |--- class: a lot
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.84
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.45
+|   |   |   |   |   |   |   |   |   |--- class: add
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.45
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 4.42
+|   |   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  4.42
+|   |   |   |   |   |   |   |   |   |   |--- class: america
+|   |   |   |   |   |   |--- maximum_2d_motion >  169.44
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |   |   |--- class: admire
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |   |   |--- class: across
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion <= 35.47
+|   |   |   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |   |   |   |--- class: arm
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion >  35.47
+|   |   |   |   |   |   |   |   |   |   |--- class: aim
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 2.53
+|   |   |   |   |   |   |   |   |   |--- class: attention
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  2.53
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 5.41
+|   |   |   |   |   |   |   |   |   |   |--- class: approach
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  5.41
+|   |   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |--- mean_keypoint_confidence <= 0.92
+|   |   |   |   |   |   |--- std_smplx_value <= 1.46
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.42
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.06
+|   |   |   |   |   |   |   |   |   |--- class: angle
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.06
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 122.72
+|   |   |   |   |   |   |   |   |   |   |--- class: apostrophe
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  122.72
+|   |   |   |   |   |   |   |   |   |   |--- class: about
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.42
+|   |   |   |   |   |   |   |   |--- frame_count <= 49.00
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion <= 10.56
+|   |   |   |   |   |   |   |   |   |   |--- class: alligator
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion >  10.56
+|   |   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |   |   |   |--- frame_count >  49.00
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 70.50
+|   |   |   |   |   |   |   |   |   |   |--- class: accountant
+|   |   |   |   |   |   |   |   |   |--- frame_count >  70.50
+|   |   |   |   |   |   |   |   |   |   |--- class: analyze
+|   |   |   |   |   |   |--- std_smplx_value >  1.46
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 1.43
+|   |   |   |   |   |   |   |   |   |--- class: alphabet
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  1.43
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.16
+|   |   |   |   |   |   |   |   |   |   |--- class: attend
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.16
+|   |   |   |   |   |   |   |   |   |   |--- class: announce
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.89
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 3.48
+|   |   |   |   |   |   |   |   |   |   |--- class: attract
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  3.48
+|   |   |   |   |   |   |   |   |   |   |--- class: afternoon
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.89
+|   |   |   |   |   |   |   |   |   |--- class: all day
+|   |   |   |   |   |--- mean_keypoint_confidence >  0.92
+|   |   |   |   |   |   |--- frame_count <= 40.50
+|   |   |   |   |   |   |   |--- frame_count <= 35.50
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 32.50
+|   |   |   |   |   |   |   |   |   |   |--- class: able
+|   |   |   |   |   |   |   |   |   |--- frame_count >  32.50
+|   |   |   |   |   |   |   |   |   |   |--- class: attention
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: attract
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: attract
+|   |   |   |   |   |   |   |--- frame_count >  35.50
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.95
+|   |   |   |   |   |   |   |   |   |   |--- class: agree
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.95
+|   |   |   |   |   |   |   |   |   |   |--- class: all day
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |   |--- class: agreement
+|   |   |   |   |   |   |--- frame_count >  40.50
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 0.92
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.94
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.92
+|   |   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.92
+|   |   |   |   |   |   |   |   |   |   |--- class: annoy
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.94
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: arrest
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: actor
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  0.92
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.97
+|   |   |   |   |   |   |   |   |   |--- class: above
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.97
+|   |   |   |   |   |   |   |   |   |--- class: anyway
+|   |   |   |--- std_smplx_value >  1.49
+|   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |--- frame_count <= 51.00
+|   |   |   |   |   |   |--- maximum_smplx_motion <= 1.79
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.92
+|   |   |   |   |   |   |   |   |   |--- class: adapt
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.92
+|   |   |   |   |   |   |   |   |   |--- class: amputate
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.07
+|   |   |   |   |   |   |   |   |   |--- class: army
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.07
+|   |   |   |   |   |   |   |   |   |--- class: accomplish
+|   |   |   |   |   |   |--- maximum_smplx_motion >  1.79
+|   |   |   |   |   |   |   |--- std_2d_motion <= 14.08
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.52
+|   |   |   |   |   |   |   |   |   |--- class: aim
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.52
+|   |   |   |   |   |   |   |   |   |--- class: add
+|   |   |   |   |   |   |   |--- std_2d_motion >  14.08
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.90
+|   |   |   |   |   |   |   |   |   |--- class: angle
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.90
+|   |   |   |   |   |   |   |   |   |--- class: angle
+|   |   |   |   |   |--- frame_count >  51.00
+|   |   |   |   |   |   |--- frame_count <= 75.00
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.96
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.92
+|   |   |   |   |   |   |   |   |   |--- class: assistant
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.92
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.32
+|   |   |   |   |   |   |   |   |   |   |--- class: argue
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.32
+|   |   |   |   |   |   |   |   |   |   |--- class: anniversary
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.96
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.52
+|   |   |   |   |   |   |   |   |   |   |--- class: angry
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.52
+|   |   |   |   |   |   |   |   |   |   |--- class: america
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |   |--- class: all day
+|   |   |   |   |   |   |--- frame_count >  75.00
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.09
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |--- class: around
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |--- class: anniversary
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.86
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 92.00
+|   |   |   |   |   |   |   |   |   |   |--- class: anyway
+|   |   |   |   |   |   |   |   |   |--- frame_count >  92.00
+|   |   |   |   |   |   |   |   |   |   |--- class: agree
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.86
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 103.50
+|   |   |   |   |   |   |   |   |   |   |--- class: animal
+|   |   |   |   |   |   |   |   |   |--- frame_count >  103.50
+|   |   |   |   |   |   |   |   |   |   |--- class: accomplish
+|   |   |   |   |--- mean_smplx_value >  0.09
+|   |   |   |   |   |--- std_smplx_value <= 1.57
+|   |   |   |   |   |   |--- mean_smplx_value <= 0.10
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.54
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- class: address
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- class: activity
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.54
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.10
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 3.73
+|   |   |   |   |   |   |   |   |   |   |--- class: after
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  3.73
+|   |   |   |   |   |   |   |   |   |   |--- class: angel
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.10
+|   |   |   |   |   |   |   |   |   |--- class: and
+|   |   |   |   |   |   |--- mean_smplx_value >  0.10
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.52
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 6.55
+|   |   |   |   |   |   |   |   |   |--- class: action
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  6.55
+|   |   |   |   |   |   |   |   |   |--- class: appreciate
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.52
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.87
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- class: arrogant
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- class: act
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.87
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 22.50
+|   |   |   |   |   |   |   |   |   |   |--- class: answer
+|   |   |   |   |   |   |   |   |   |--- frame_count >  22.50
+|   |   |   |   |   |   |   |   |   |   |--- class: accept
+|   |   |   |   |   |--- std_smplx_value >  1.57
+|   |   |   |   |   |   |--- frame_count <= 56.00
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.10
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.94
+|   |   |   |   |   |   |   |   |   |   |--- class: aim
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.94
+|   |   |   |   |   |   |   |   |   |   |--- class: adopt
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.10
+|   |   |   |   |   |   |   |   |   |--- class: after
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 1.57
+|   |   |   |   |   |   |   |   |   |   |--- class: above
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  1.57
+|   |   |   |   |   |   |   |   |   |   |--- class: allergy
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.44
+|   |   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- class: argue
+|   |   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- class: angel
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.44
+|   |   |   |   |   |   |   |   |   |   |--- class: almost
+|   |   |   |   |   |   |--- frame_count >  56.00
+|   |   |   |   |   |   |   |--- mean_2d_motion <= 4.52
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 9.83
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.71
+|   |   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 2.78
+|   |   |   |   |   |   |   |   |   |   |   |--- class: arrive
+|   |   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  2.78
+|   |   |   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.71
+|   |   |   |   |   |   |   |   |   |   |--- class: analyze
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  9.83
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion <= 14.02
+|   |   |   |   |   |   |   |   |   |   |--- class: announce
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion >  14.02
+|   |   |   |   |   |   |   |   |   |   |--- class: anatomy
+|   |   |   |   |   |   |   |--- mean_2d_motion >  4.52
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 197.04
+|   |   |   |   |   |   |   |   |   |--- class: agreement
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  197.04
+|   |   |   |   |   |   |   |   |   |--- class: america
+|--- mean_smplx_value >  0.10
+|   |--- mean_smplx_motion <= 0.01
+|   |   |--- mean_smplx_value <= 0.12
+|   |   |   |--- mean_keypoint_confidence <= 0.79
+|   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |--- maximum_smplx_motion <= 0.91
+|   |   |   |   |   |   |--- maximum_2d_motion <= 224.90
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.12
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.27
+|   |   |   |   |   |   |   |   |   |--- class: asl
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.27
+|   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.12
+|   |   |   |   |   |   |   |   |--- class: appetite
+|   |   |   |   |   |   |--- maximum_2d_motion >  224.90
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |--- class: abdomen
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |--- class: alphabet
+|   |   |   |   |   |--- maximum_smplx_motion >  0.91
+|   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.10
+|   |   |   |   |   |   |   |   |--- class: airplane
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.10
+|   |   |   |   |   |   |   |   |--- class: apartment
+|   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.39
+|   |   |   |   |   |   |   |   |--- class: aunt
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.39
+|   |   |   |   |   |   |   |   |--- class: a
+|   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |--- left_hand_valid_ratio <= 0.65
+|   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.93
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- class: africa
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- class: always
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- class: amputate
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.74
+|   |   |   |   |   |   |   |   |   |--- class: age
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.74
+|   |   |   |   |   |   |   |   |   |--- class: airplane
+|   |   |   |   |   |   |--- right_hand_valid_ratio >  0.93
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.99
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.93
+|   |   |   |   |   |   |   |   |   |--- class: assume
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.93
+|   |   |   |   |   |   |   |   |   |--- class: ago
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.99
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.35
+|   |   |   |   |   |   |   |   |   |--- class: ask
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.35
+|   |   |   |   |   |   |   |   |   |--- class: any
+|   |   |   |   |   |--- left_hand_valid_ratio >  0.65
+|   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.32
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- class: adult
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- class: always
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.32
+|   |   |   |   |   |   |   |   |--- class: asia
+|   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.93
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 6.01
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion <= 23.37
+|   |   |   |   |   |   |   |   |   |   |--- class: appetite
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion >  23.37
+|   |   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  6.01
+|   |   |   |   |   |   |   |   |   |--- class: and
+|   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.93
+|   |   |   |   |   |   |   |   |--- frame_count <= 45.00
+|   |   |   |   |   |   |   |   |   |--- class: accent
+|   |   |   |   |   |   |   |   |--- frame_count >  45.00
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 5.53
+|   |   |   |   |   |   |   |   |   |   |--- class: ask
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  5.53
+|   |   |   |   |   |   |   |   |   |   |--- class: aid
+|   |   |   |--- mean_keypoint_confidence >  0.79
+|   |   |   |   |--- std_smplx_value <= 1.52
+|   |   |   |   |   |--- maximum_2d_motion <= 203.15
+|   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |   |--- class: adjective
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.98
+|   |   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.98
+|   |   |   |   |   |   |   |   |   |   |--- class: another
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |   |   |--- class: alone
+|   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.86
+|   |   |   |   |   |   |   |   |--- class: ask
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.86
+|   |   |   |   |   |   |   |   |--- frame_count <= 31.00
+|   |   |   |   |   |   |   |   |   |--- class: australia
+|   |   |   |   |   |   |   |   |--- frame_count >  31.00
+|   |   |   |   |   |   |   |   |   |--- class: adopt
+|   |   |   |   |   |--- maximum_2d_motion >  203.15
+|   |   |   |   |   |   |--- mean_2d_motion <= 5.01
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.43
+|   |   |   |   |   |   |   |   |--- class: april
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.43
+|   |   |   |   |   |   |   |   |--- class: april
+|   |   |   |   |   |   |--- mean_2d_motion >  5.01
+|   |   |   |   |   |   |   |--- mean_2d_motion <= 7.58
+|   |   |   |   |   |   |   |   |--- class: advantage
+|   |   |   |   |   |   |   |--- mean_2d_motion >  7.58
+|   |   |   |   |   |   |   |   |--- class: allow
+|   |   |   |   |--- std_smplx_value >  1.52
+|   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |--- frame_count <= 55.00
+|   |   |   |   |   |   |   |--- mean_2d_motion <= 0.84
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.61
+|   |   |   |   |   |   |   |   |   |--- class: autumn
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.61
+|   |   |   |   |   |   |   |   |   |--- class: audience
+|   |   |   |   |   |   |   |--- mean_2d_motion >  0.84
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.96
+|   |   |   |   |   |   |   |   |   |--- class: ahead
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.96
+|   |   |   |   |   |   |   |   |   |--- class: already
+|   |   |   |   |   |   |--- frame_count >  55.00
+|   |   |   |   |   |   |   |--- std_2d_motion <= 31.66
+|   |   |   |   |   |   |   |   |--- class: appreciate
+|   |   |   |   |   |   |   |--- std_2d_motion >  31.66
+|   |   |   |   |   |   |   |   |--- class: anatomy
+|   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |--- maximum_smplx_motion <= 1.65
+|   |   |   |   |   |   |   |--- frame_count <= 53.00
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |   |--- class: adult
+|   |   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- class: airplane
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |--- frame_count >  53.00
+|   |   |   |   |   |   |   |   |--- class: against
+|   |   |   |   |   |   |--- maximum_smplx_motion >  1.65
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |--- class: advanced
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |--- class: above
+|   |   |--- mean_smplx_value >  0.12
+|   |   |   |--- mean_keypoint_confidence <= 0.87
+|   |   |   |   |--- std_smplx_value <= 1.54
+|   |   |   |   |   |--- std_smplx_value <= 1.44
+|   |   |   |   |   |   |--- frame_count <= 79.00
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.13
+|   |   |   |   |   |   |   |   |--- frame_count <= 52.00
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.82
+|   |   |   |   |   |   |   |   |   |   |--- class: august
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.82
+|   |   |   |   |   |   |   |   |   |   |--- class: arizona
+|   |   |   |   |   |   |   |   |--- frame_count >  52.00
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.75
+|   |   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.75
+|   |   |   |   |   |   |   |   |   |   |   |--- class: africa
+|   |   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.75
+|   |   |   |   |   |   |   |   |   |   |   |--- class: arizona
+|   |   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.75
+|   |   |   |   |   |   |   |   |   |   |--- frame_count <= 56.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |   |   |   |--- frame_count >  56.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: apple
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.13
+|   |   |   |   |   |   |   |   |--- frame_count <= 31.00
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 115.78
+|   |   |   |   |   |   |   |   |   |   |--- class: a
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  115.78
+|   |   |   |   |   |   |   |   |   |   |--- class: apostrophe
+|   |   |   |   |   |   |   |   |--- frame_count >  31.00
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 224.26
+|   |   |   |   |   |   |   |   |   |   |--- class: attitude
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  224.26
+|   |   |   |   |   |   |   |   |   |   |--- class: apple
+|   |   |   |   |   |   |--- frame_count >  79.00
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.34
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 15.38
+|   |   |   |   |   |   |   |   |   |--- class: aid
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  15.38
+|   |   |   |   |   |   |   |   |   |--- class: agenda
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.34
+|   |   |   |   |   |   |   |   |--- class: aunt
+|   |   |   |   |   |--- std_smplx_value >  1.44
+|   |   |   |   |   |   |--- maximum_2d_motion <= 186.41
+|   |   |   |   |   |   |   |--- mean_2d_motion <= 1.74
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.07
+|   |   |   |   |   |   |   |   |   |--- class: asl
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.07
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: aunt
+|   |   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: apartment
+|   |   |   |   |   |   |   |--- mean_2d_motion >  1.74
+|   |   |   |   |   |   |   |   |--- frame_count <= 62.50
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 4.00
+|   |   |   |   |   |   |   |   |   |   |--- class: always
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  4.00
+|   |   |   |   |   |   |   |   |   |   |--- class: abdomen
+|   |   |   |   |   |   |   |   |--- frame_count >  62.50
+|   |   |   |   |   |   |   |   |   |--- class: any
+|   |   |   |   |   |   |--- maximum_2d_motion >  186.41
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 19.10
+|   |   |   |   |   |   |   |   |   |--- class: apple
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  19.10
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion <= 39.20
+|   |   |   |   |   |   |   |   |   |   |--- class: another
+|   |   |   |   |   |   |   |   |   |--- std_2d_motion >  39.20
+|   |   |   |   |   |   |   |   |   |   |--- class: alone
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |   |--- frame_count <= 63.00
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.51
+|   |   |   |   |   |   |   |   |   |   |--- class: apostrophe
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.51
+|   |   |   |   |   |   |   |   |   |   |--- class: assume
+|   |   |   |   |   |   |   |   |--- frame_count >  63.00
+|   |   |   |   |   |   |   |   |   |--- class: always
+|   |   |   |   |--- std_smplx_value >  1.54
+|   |   |   |   |   |--- frame_count <= 68.50
+|   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.13
+|   |   |   |   |   |   |   |   |   |--- class: affect
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.13
+|   |   |   |   |   |   |   |   |   |--- class: age
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |--- class: advantage
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |--- class: alone
+|   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |--- frame_count <= 46.50
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 73.76
+|   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  73.76
+|   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |--- frame_count >  46.50
+|   |   |   |   |   |   |   |   |--- class: audiology
+|   |   |   |   |   |--- frame_count >  68.50
+|   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.96
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.42
+|   |   |   |   |   |   |   |   |--- class: august
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.42
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.79
+|   |   |   |   |   |   |   |   |   |--- class: asl
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.79
+|   |   |   |   |   |   |   |   |   |--- class: around
+|   |   |   |   |   |   |--- right_hand_valid_ratio >  0.96
+|   |   |   |   |   |   |   |--- maximum_2d_motion <= 314.91
+|   |   |   |   |   |   |   |   |--- frame_count <= 83.00
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 6.81
+|   |   |   |   |   |   |   |   |   |   |--- class: airplane
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  6.81
+|   |   |   |   |   |   |   |   |   |   |--- class: apartment
+|   |   |   |   |   |   |   |   |--- frame_count >  83.00
+|   |   |   |   |   |   |   |   |   |--- class: april
+|   |   |   |   |   |   |   |--- maximum_2d_motion >  314.91
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.37
+|   |   |   |   |   |   |   |   |   |--- class: a
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.37
+|   |   |   |   |   |   |   |   |   |--- class: apple
+|   |   |   |--- mean_keypoint_confidence >  0.87
+|   |   |   |   |--- mean_keypoint_confidence <= 0.94
+|   |   |   |   |   |--- maximum_smplx_motion <= 0.65
+|   |   |   |   |   |   |--- mean_smplx_value <= 0.12
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.42
+|   |   |   |   |   |   |   |   |--- class: aid
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.42
+|   |   |   |   |   |   |   |   |--- class: attitude
+|   |   |   |   |   |   |--- mean_smplx_value >  0.12
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.90
+|   |   |   |   |   |   |   |   |--- class: assist
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.90
+|   |   |   |   |   |   |   |   |--- frame_count <= 43.50
+|   |   |   |   |   |   |   |   |   |--- class: adult
+|   |   |   |   |   |   |   |   |--- frame_count >  43.50
+|   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |--- maximum_smplx_motion >  0.65
+|   |   |   |   |   |   |--- mean_smplx_motion <= 0.01
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.13
+|   |   |   |   |   |   |   |   |--- class: across
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.13
+|   |   |   |   |   |   |   |   |--- class: art
+|   |   |   |   |   |   |--- mean_smplx_motion >  0.01
+|   |   |   |   |   |   |   |--- std_2d_motion <= 2.96
+|   |   |   |   |   |   |   |   |--- class: author
+|   |   |   |   |   |   |   |--- std_2d_motion >  2.96
+|   |   |   |   |   |   |   |   |--- class: aid
+|   |   |   |   |--- mean_keypoint_confidence >  0.94
+|   |   |   |   |   |--- mean_smplx_value <= 0.15
+|   |   |   |   |   |   |--- std_smplx_value <= 1.56
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.66
+|   |   |   |   |   |   |   |   |--- class: advantage
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.66
+|   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |   |--- std_smplx_value >  1.56
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.97
+|   |   |   |   |   |   |   |   |--- class: affect
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.97
+|   |   |   |   |   |   |   |   |--- class: accept
+|   |   |   |   |   |--- mean_smplx_value >  0.15
+|   |   |   |   |   |   |--- class: alarm
+|   |--- mean_smplx_motion >  0.01
+|   |   |--- std_smplx_value <= 1.55
+|   |   |   |--- mean_keypoint_confidence <= 0.81
+|   |   |   |   |--- frame_count <= 48.50
+|   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |--- mean_2d_motion <= 7.72
+|   |   |   |   |   |   |   |--- class: amazing
+|   |   |   |   |   |   |--- mean_2d_motion >  7.72
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |--- class: arizona
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |--- class: age
+|   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.06
+|   |   |   |   |   |   |   |--- frame_count <= 40.00
+|   |   |   |   |   |   |   |   |--- class: accent
+|   |   |   |   |   |   |   |--- frame_count >  40.00
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 8.81
+|   |   |   |   |   |   |   |   |   |--- class: attitude
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  8.81
+|   |   |   |   |   |   |   |   |   |--- class: another
+|   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.06
+|   |   |   |   |   |   |   |--- class: age
+|   |   |   |   |--- frame_count >  48.50
+|   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |--- maximum_2d_motion <= 214.96
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.12
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.78
+|   |   |   |   |   |   |   |   |   |--- class: aim
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.78
+|   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.12
+|   |   |   |   |   |   |   |   |--- class: apartment
+|   |   |   |   |   |   |--- maximum_2d_motion >  214.96
+|   |   |   |   |   |   |   |--- std_2d_motion <= 36.68
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.98
+|   |   |   |   |   |   |   |   |   |--- class: abdomen
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.98
+|   |   |   |   |   |   |   |   |   |--- class: audiologist
+|   |   |   |   |   |   |   |--- std_2d_motion >  36.68
+|   |   |   |   |   |   |   |   |--- class: arizona
+|   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.79
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 290.17
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 199.70
+|   |   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  199.70
+|   |   |   |   |   |   |   |   |   |   |--- class: again
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  290.17
+|   |   |   |   |   |   |   |   |   |--- class: april
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.12
+|   |   |   |   |   |   |   |   |   |   |--- class: africa
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.12
+|   |   |   |   |   |   |   |   |   |   |--- class: africa
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |   |--- class: any
+|   |   |   |   |   |   |--- mean_keypoint_confidence >  0.79
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.52
+|   |   |   |   |   |   |   |   |--- class: agenda
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.52
+|   |   |   |   |   |   |   |   |--- class: active
+|   |   |   |--- mean_keypoint_confidence >  0.81
+|   |   |   |   |--- mean_2d_motion <= 5.19
+|   |   |   |   |   |--- std_smplx_value <= 1.51
+|   |   |   |   |   |   |--- mean_2d_motion <= 2.83
+|   |   |   |   |   |   |   |--- maximum_2d_motion <= 46.41
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 30.39
+|   |   |   |   |   |   |   |   |   |--- class: also
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  30.39
+|   |   |   |   |   |   |   |   |   |--- class: attorney
+|   |   |   |   |   |   |   |--- maximum_2d_motion >  46.41
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.92
+|   |   |   |   |   |   |   |   |   |--- class: author
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.92
+|   |   |   |   |   |   |   |   |   |--- class: article
+|   |   |   |   |   |   |--- mean_2d_motion >  2.83
+|   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.96
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 12.59
+|   |   |   |   |   |   |   |   |   |--- class: artist
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  12.59
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.45
+|   |   |   |   |   |   |   |   |   |   |--- class: attorney
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.45
+|   |   |   |   |   |   |   |   |   |   |--- class: appear
+|   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.96
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |   |   |--- class: affect
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 155.00
+|   |   |   |   |   |   |   |   |   |   |--- class: attend
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  155.00
+|   |   |   |   |   |   |   |   |   |   |--- class: assist
+|   |   |   |   |   |--- std_smplx_value >  1.51
+|   |   |   |   |   |   |--- mean_2d_motion <= 1.61
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |   |--- frame_count <= 58.50
+|   |   |   |   |   |   |   |   |   |--- class: attention
+|   |   |   |   |   |   |   |   |--- frame_count >  58.50
+|   |   |   |   |   |   |   |   |   |--- class: airplane
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 49.35
+|   |   |   |   |   |   |   |   |   |--- class: attend
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  49.35
+|   |   |   |   |   |   |   |   |   |--- class: apple
+|   |   |   |   |   |   |--- mean_2d_motion >  1.61
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.85
+|   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.85
+|   |   |   |   |   |   |   |   |   |--- class: america
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.83
+|   |   |   |   |   |   |   |   |   |--- class: art
+|   |   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.83
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 31.41
+|   |   |   |   |   |   |   |   |   |   |--- class: audience
+|   |   |   |   |   |   |   |   |   |--- maximum_2d_motion >  31.41
+|   |   |   |   |   |   |   |   |   |   |--- class: article
+|   |   |   |   |--- mean_2d_motion >  5.19
+|   |   |   |   |   |--- std_smplx_value <= 1.47
+|   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.83
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.12
+|   |   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.79
+|   |   |   |   |   |   |   |   |   |--- class: approve
+|   |   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.79
+|   |   |   |   |   |   |   |   |   |--- class: answer
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.12
+|   |   |   |   |   |   |   |   |--- class: aid
+|   |   |   |   |   |   |--- left_hand_valid_ratio >  0.83
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.42
+|   |   |   |   |   |   |   |   |--- class: australia
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.42
+|   |   |   |   |   |   |   |   |--- class: auction
+|   |   |   |   |   |--- std_smplx_value >  1.47
+|   |   |   |   |   |   |--- maximum_2d_motion <= 190.05
+|   |   |   |   |   |   |   |--- std_2d_motion <= 19.91
+|   |   |   |   |   |   |   |   |--- class: audiologist
+|   |   |   |   |   |   |   |--- std_2d_motion >  19.91
+|   |   |   |   |   |   |   |   |--- class: angry
+|   |   |   |   |   |   |--- maximum_2d_motion >  190.05
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.52
+|   |   |   |   |   |   |   |   |--- class: alarm
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.52
+|   |   |   |   |   |   |   |   |--- class: alarm
+|   |   |--- std_smplx_value >  1.55
+|   |   |   |--- std_smplx_value <= 1.63
+|   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |--- minimum_keypoint_confidence <= 0.05
+|   |   |   |   |   |   |--- std_2d_motion <= 21.11
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.57
+|   |   |   |   |   |   |   |   |--- frame_count <= 65.50
+|   |   |   |   |   |   |   |   |   |--- class: angel
+|   |   |   |   |   |   |   |   |--- frame_count >  65.50
+|   |   |   |   |   |   |   |   |   |--- class: advanced
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.57
+|   |   |   |   |   |   |   |   |--- class: accept
+|   |   |   |   |   |   |--- std_2d_motion >  21.11
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.57
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 28.38
+|   |   |   |   |   |   |   |   |   |--- class: agree
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  28.38
+|   |   |   |   |   |   |   |   |   |--- class: angle
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.57
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 25.31
+|   |   |   |   |   |   |   |   |   |--- class: accountant
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  25.31
+|   |   |   |   |   |   |   |   |   |--- class: accident
+|   |   |   |   |   |--- minimum_keypoint_confidence >  0.05
+|   |   |   |   |   |   |--- maximum_2d_motion <= 45.94
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.95
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 1.39
+|   |   |   |   |   |   |   |   |   |--- class: agree
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  1.39
+|   |   |   |   |   |   |   |   |   |--- class: anatomy
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.95
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.92
+|   |   |   |   |   |   |   |   |   |--- class: active
+|   |   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.92
+|   |   |   |   |   |   |   |   |   |--- class: announce
+|   |   |   |   |   |   |--- maximum_2d_motion >  45.94
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.59
+|   |   |   |   |   |   |   |   |   |--- class: all
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.59
+|   |   |   |   |   |   |   |   |   |--- class: across
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 2.46
+|   |   |   |   |   |   |   |   |   |--- class: argue
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  2.46
+|   |   |   |   |   |   |   |   |   |--- class: airplane
+|   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |--- maximum_smplx_motion <= 1.47
+|   |   |   |   |   |   |   |--- mean_smplx_value <= 0.13
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.26
+|   |   |   |   |   |   |   |   |   |--- class: alcohol
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.26
+|   |   |   |   |   |   |   |   |   |--- class: allow
+|   |   |   |   |   |   |   |--- mean_smplx_value >  0.13
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.99
+|   |   |   |   |   |   |   |   |   |--- class: art
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.99
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.56
+|   |   |   |   |   |   |   |   |   |   |--- class: appear
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.56
+|   |   |   |   |   |   |   |   |   |   |--- class: another
+|   |   |   |   |   |   |--- maximum_smplx_motion >  1.47
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 2.19
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.12
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 53.50
+|   |   |   |   |   |   |   |   |   |   |--- class: allergy
+|   |   |   |   |   |   |   |   |   |--- frame_count >  53.50
+|   |   |   |   |   |   |   |   |   |   |--- class: after
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.12
+|   |   |   |   |   |   |   |   |   |--- frame_count <= 73.50
+|   |   |   |   |   |   |   |   |   |   |--- class: able
+|   |   |   |   |   |   |   |   |   |--- frame_count >  73.50
+|   |   |   |   |   |   |   |   |   |   |--- class: across
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  2.19
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 31.05
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion <= 1.85
+|   |   |   |   |   |   |   |   |   |   |--- class: artist
+|   |   |   |   |   |   |   |   |   |--- mean_2d_motion >  1.85
+|   |   |   |   |   |   |   |   |   |   |--- class: any
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  31.05
+|   |   |   |   |   |   |   |   |   |--- class: action
+|   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |--- std_2d_motion <= 16.55
+|   |   |   |   |   |   |   |--- mean_2d_motion <= 3.31
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.60
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.41
+|   |   |   |   |   |   |   |   |   |   |--- class: australia
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.41
+|   |   |   |   |   |   |   |   |   |   |--- class: australia
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.60
+|   |   |   |   |   |   |   |   |   |--- class: available
+|   |   |   |   |   |   |   |--- mean_2d_motion >  3.31
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |   |--- class: angry
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.11
+|   |   |   |   |   |   |   |   |   |   |--- class: already
+|   |   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.11
+|   |   |   |   |   |   |   |   |   |   |--- class: allow
+|   |   |   |   |   |   |--- std_2d_motion >  16.55
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence <= 0.83
+|   |   |   |   |   |   |   |   |--- mean_2d_motion <= 7.80
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.60
+|   |   |   |   |   |   |   |   |   |   |--- class: also
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.60
+|   |   |   |   |   |   |   |   |   |   |--- class: audience
+|   |   |   |   |   |   |   |   |--- mean_2d_motion >  7.80
+|   |   |   |   |   |   |   |   |   |--- class: activity
+|   |   |   |   |   |   |   |--- mean_keypoint_confidence >  0.83
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 206.94
+|   |   |   |   |   |   |   |   |   |--- class: active
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  206.94
+|   |   |   |   |   |   |   |   |   |--- class: author
+|   |   |   |--- std_smplx_value >  1.63
+|   |   |   |   |--- mean_smplx_value <= 0.12
+|   |   |   |   |   |--- maximum_smplx_motion <= 1.48
+|   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.03
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio <= 0.98
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio <= 0.69
+|   |   |   |   |   |   |   |   |   |--- class: anyway
+|   |   |   |   |   |   |   |   |--- left_hand_valid_ratio >  0.69
+|   |   |   |   |   |   |   |   |   |--- class: act
+|   |   |   |   |   |   |   |--- right_hand_valid_ratio >  0.98
+|   |   |   |   |   |   |   |   |--- class: amputate
+|   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.03
+|   |   |   |   |   |   |   |--- mean_2d_motion <= 5.96
+|   |   |   |   |   |   |   |   |--- frame_count <= 35.50
+|   |   |   |   |   |   |   |   |   |--- class: audience
+|   |   |   |   |   |   |   |   |--- frame_count >  35.50
+|   |   |   |   |   |   |   |   |   |--- class: argue
+|   |   |   |   |   |   |   |--- mean_2d_motion >  5.96
+|   |   |   |   |   |   |   |   |--- class: adjust
+|   |   |   |   |   |--- maximum_smplx_motion >  1.48
+|   |   |   |   |   |   |--- std_smplx_value <= 1.74
+|   |   |   |   |   |   |   |--- maximum_smplx_motion <= 2.48
+|   |   |   |   |   |   |   |   |--- std_2d_motion <= 2.22
+|   |   |   |   |   |   |   |   |   |--- class: appreciate
+|   |   |   |   |   |   |   |   |--- std_2d_motion >  2.22
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 1.55
+|   |   |   |   |   |   |   |   |   |   |--- class: appreciate
+|   |   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  1.55
+|   |   |   |   |   |   |   |   |   |   |--- class: actor
+|   |   |   |   |   |   |   |--- maximum_smplx_motion >  2.48
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.03
+|   |   |   |   |   |   |   |   |   |--- class: accomplish
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.03
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.68
+|   |   |   |   |   |   |   |   |   |   |--- class: angel
+|   |   |   |   |   |   |   |   |   |--- std_smplx_value >  1.68
+|   |   |   |   |   |   |   |   |   |   |--- class: arrogant
+|   |   |   |   |   |   |--- std_smplx_value >  1.74
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.03
+|   |   |   |   |   |   |   |   |   |--- class: a lot
+|   |   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.03
+|   |   |   |   |   |   |   |   |   |--- class: audience
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |--- mean_smplx_value <= 0.12
+|   |   |   |   |   |   |   |   |   |--- class: advanced
+|   |   |   |   |   |   |   |   |--- mean_smplx_value >  0.12
+|   |   |   |   |   |   |   |   |   |--- class: accomplish
+|   |   |   |   |--- mean_smplx_value >  0.12
+|   |   |   |   |   |--- maximum_smplx_motion <= 2.06
+|   |   |   |   |   |   |--- frame_count <= 76.50
+|   |   |   |   |   |   |   |--- std_2d_motion <= 31.10
+|   |   |   |   |   |   |   |   |--- class: auction
+|   |   |   |   |   |   |   |--- std_2d_motion >  31.10
+|   |   |   |   |   |   |   |   |--- class: audiologist
+|   |   |   |   |   |   |--- frame_count >  76.50
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence <= 0.04
+|   |   |   |   |   |   |   |   |--- std_smplx_value <= 1.66
+|   |   |   |   |   |   |   |   |   |--- class: active
+|   |   |   |   |   |   |   |   |--- std_smplx_value >  1.66
+|   |   |   |   |   |   |   |   |   |--- class: anatomy
+|   |   |   |   |   |   |   |--- minimum_keypoint_confidence >  0.04
+|   |   |   |   |   |   |   |   |--- class: analyze
+|   |   |   |   |   |--- maximum_smplx_motion >  2.06
+|   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |--- mean_smplx_motion <= 0.02
+|   |   |   |   |   |   |   |   |--- class: audience
+|   |   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion <= 3.26
+|   |   |   |   |   |   |   |   |   |--- class: archery
+|   |   |   |   |   |   |   |   |--- maximum_smplx_motion >  3.26
+|   |   |   |   |   |   |   |   |   |--- class: activity
+|   |   |   |   |   |   |--- mean_smplx_motion >  0.02
+|   |   |   |   |   |   |   |--- std_smplx_value <= 1.79
+|   |   |   |   |   |   |   |   |--- class: australia
+|   |   |   |   |   |   |   |--- std_smplx_value >  1.79
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion <= 94.48
+|   |   |   |   |   |   |   |   |   |--- class: active
+|   |   |   |   |   |   |   |   |--- maximum_2d_motion >  94.48
+|   |   |   |   |   |   |   |   |   |--- class: angel
